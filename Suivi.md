@@ -5,8 +5,8 @@ Projet : **Assistant médical personnel**
 Ce document nous sert à faire un suivi régulier de l’avancement du projet. 
 
 ### Groupe : 
-- Nathan SENS 
-- Baptiste BERTRAND-RAPELLO 
+- Nathan SENS, github : [Unknow46](https://github.com/Unknow46)
+- Baptiste BERTRAND-RAPELLO, github : [BBR2394](https://github.com/BBR2394)
 
 ### Suivi par mois du projet
 - [Février](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi/Fevrier.md)
