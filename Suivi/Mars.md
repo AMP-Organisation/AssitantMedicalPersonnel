@@ -1,7 +1,8 @@
 # Mars 
 
 ## Lundi 1er Mars
-- BBR: Continué la prise en main de la gestion des insert et update  
+- Baptiste: Continuer la prise en main de la gestion des insert et update
+- Nathan : Continuer la prise en main de la gestion des requêtes entre plusieurs tables
 ## Mardi 2 Mars 
 
 ### home page
