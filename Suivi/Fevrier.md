@@ -22,3 +22,6 @@ D’ici la fin de la semaine 8, arriver à monter en compétence sur fast API :
 - Travail sur la connexion avec la bdd (petit pb d’installation sur mac)  
 - Et création de premières routes 
 ## Vendredi 
+
+### home page
+[retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
