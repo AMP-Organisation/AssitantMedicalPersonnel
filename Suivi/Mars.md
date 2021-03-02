@@ -20,6 +20,9 @@
   - j'ai continué de travaillé sur mon projet de test de fast api avec enfin, (je pensais que ca marchais) une relation des jointure automatique ebtre deux tables...
   - mais aussi, recherche dans la doc pour retourner des fichiers depuis fast api : il faut installé via pip aiofiles; l'interet serait de renvoyer un fichier html simple pour ajouter deux trois explication succinte sur l'api
 - Nathan :
+  - recherche pour récupérer les médicaments depuis la base de données,
+  - création d'un modèle pour intéragir avec une liste d'ID,
+  - test avec postman pour voir les routes à mettres en places pour les médicaments (GET, POST, PUT, ...)
 
 
 ### home page
