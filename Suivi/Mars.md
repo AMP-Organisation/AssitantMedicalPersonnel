@@ -6,7 +6,7 @@
   - j'ai refait des route sur mon projet de [test]() 
   - j'ai re créé d'autre route basic pour interagir avec ma basse de donnée et ma table user
 - Nathan : Continuer la prise en main de la gestion des requêtes entre plusieurs tables
-## Mardi 2 Mars 
+## Mardi 2 Mars :birthday:
 - travail de groupe : 
   - création d'autres tables dans la base de donnée :
     - table des médicaments
