@@ -7,6 +7,20 @@
   - j'ai re créé d'autre route basic pour interagir avec ma basse de donnée et ma table user
 - Nathan : Continuer la prise en main de la gestion des requêtes entre plusieurs tables
 ## Mardi 2 Mars 
+- travail de groupe : 
+  - création d'autres tables dans la base de donnée :
+    - table des médicaments
+    - table des type de médicaments
+    - table des principes actifs
+    - table des symptômes
+  - Explication : nous pensions au debut réutiliser la base de données publique de l'autorité de la santé, or celle ci est trop complète et mal organisé pour nos besoin, donc nous avons décidé de créer nos propres table dans lesquels nous rajouterons et ordonnerons les données au mieux pour notre application
+
+- Baptiste:
+  - recherche pour récupéré des données de la bdm (base de données des medicaments) au final on va créer nos propres tables
+  - j'ai continué de travaillé sur mon projet de test de fast api avec enfin, (je pensais que ca marchais) une relation des jointure automatique ebtre deux tables...
+  - mais aussi, recherche dans la doc pour retourner des fichiers depuis fast api : il faut installé via pip aiofiles; l'interet serait de renvoyer un fichier html simple pour ajouter deux trois explication succinte sur l'api
+- Nathan :
+
 
 ### home page
 [retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
