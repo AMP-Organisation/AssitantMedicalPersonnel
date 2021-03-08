@@ -19,11 +19,24 @@
   - recherche pour récupéré des données de la bdm (base de données des medicaments) au final on va créer nos propres tables
   - j'ai continué de travaillé sur mon projet de test de fast api avec enfin, (je pensais que ca marchais) une relation des jointure automatique ebtre deux tables...
   - mais aussi, recherche dans la doc pour retourner des fichiers depuis fast api : il faut installé via pip aiofiles; l'interet serait de renvoyer un fichier html simple pour ajouter deux trois explication succinte sur l'api
+  - et d'autre recherche autours de fast api..
+
 - Nathan :
   - recherche pour récupérer les médicaments depuis la base de données,
   - création d'un modèle pour intéragir avec une liste d'ID,
   - test avec postman pour voir les routes à mettres en places pour les médicaments (GET, POST, PUT, ...)
 
+## Lundi 8 Mars 
+- travail en binome:
+  - Nous avons initialisé le depot prorement, c'est a dire qu'on a créé toute la structure du dépot AMP-Back pour "merger" nos travaux préliminaire réaliser chacun de notre coté et pour, maintenant que nous avons en mains fast api, commencer a coder proprement l'api
+  - discussion pour la mise en place de test automatisé
+
+- Baptiste : 
+  - J'ai continué a faire d'autre route :
+    - les route pour les médicaments
+    - et j'ai fait des recherches pour trouver un bon moyen de tester notre programme en CI/CD
+
+- Nathan :
 
 ### home page
 [retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
