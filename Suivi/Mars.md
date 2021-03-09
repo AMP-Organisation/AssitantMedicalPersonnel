@@ -40,5 +40,15 @@
   - J'ai continué à mettre en place les routes pour les médicaments
   - Après répartitions des tâches pour les premières routes du projet, j'ai commencé à faire des tables dans notre BDD pour repérer les lieux de notre solution
 
+
+## Mardi 9 Mars
+
+
+- Nathan :
+    - J'ai continué l'implémentation des tables "places",
+    - Mise en place des premières routes pour places,
+    - Mise en place à l'aide  de "sqlalchemy_filter" de filtre personnalisable lors de recherche dans la BDD
+    
+
 ### home page
 [retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
