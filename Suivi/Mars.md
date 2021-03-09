@@ -37,6 +37,8 @@
     - et j'ai fait des recherches pour trouver un bon moyen de tester notre programme en CI/CD
 
 - Nathan :
+  - J'ai continué à mettre en place les routes pour les médicaments
+  - Après répartitions des tâches pour les premières routes du projet, j'ai commencé à faire des tables dans notre BDD pour repérer les lieux de notre solution
 
 ### home page
 [retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
