@@ -42,13 +42,23 @@
 
 
 ## Mardi 9 Mars
-
-
+- Baptiste
+  - J'ai travaillé sur les routes "maladies" qui nous permettront de récupérer une liste de maladies, et les informations a ce propos
+  - et donc j'ai créé une premiere base de donnée (pas encore exporté sur le repo)
 - Nathan :
     - J'ai continué l'implémentation des tables "places",
     - Mise en place des premières routes pour places,
     - Mise en place à l'aide  de "sqlalchemy_filter" de filtre personnalisable lors de recherche dans la BDD
     
+## Lundi 15 Mars
+- Baptiste
+  - continué les routes maladie
+  - et mise au propre : transfert du travail sur le projet brouillon dans le projet 
+- Nathan
+
+- en groupe :
+  - Initialisation du repo du web front pour le projet éponyme : initialisation d'un projet Quasar
+  - revue de code sur les route user pour merger sur la branche develop
 
 ### home page
 [retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
