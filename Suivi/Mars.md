@@ -55,6 +55,8 @@
   - continué les routes maladie
   - et mise au propre : transfert du travail sur le projet brouillon dans le projet 
 - Nathan
+  - continuer les routes places
+  - prise en main de quasar pour la partie front
 
 - en groupe :
   - Initialisation du repo du web front pour le projet éponyme : initialisation d'un projet Quasar
