@@ -62,5 +62,21 @@
   - Initialisation du repo du web front pour le projet éponyme : initialisation d'un projet Quasar
   - revue de code sur les route user pour merger sur la branche develop
 
+## Mardi 23 Mars
+- en groupe
+  - On a revu et merge nos travaux sur la base de donnée
+    - la table avertissement (créé ce jour)
+    - la table maladie
+    - table place (les lieux)
+  - idem sur le back
+    - routes lieux
+    - routes maladies
+    - netoyage et merge pour pouvoir développer les fonctionnalité corectement de chaque coté 
+  - idem sur le front 
+  - revu de la page login : selon le figma 
+  - création ensemble du Main layout : dorénavant, nous avons le composant de base pour implémenter facilement nos fonctionnalitées
+
+- Nathan
+  - recherche deploiement (temporaire) de l'application 
 ### home page
 [retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
