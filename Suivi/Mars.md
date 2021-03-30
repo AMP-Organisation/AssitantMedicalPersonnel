@@ -78,5 +78,14 @@
 
 - Nathan
   - recherche deploiement (temporaire) de l'application 
+
+## Lundi 29 Mars
+- Baptiste
+    - J'ai travaillé sur le front : surtout sur la mise au propre du brouillon de la page sur le renseignement sur les maladies.
+    - Avec en meme temps, monté en competence toujours sur quasar, qui, comme ce dernier gere tout ce qui est CSS, j'ai essayé de faire une UI pas trop moche
+    - et continué la partie back associé qui n'est pas encore terminé. Et il y a quelques problemes de conception qui seront a corriger : nommage de certains champ en bdd
+
+
+
 ### home page
 [retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
