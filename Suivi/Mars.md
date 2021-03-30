@@ -77,15 +77,32 @@
   - création ensemble du Main layout : dorénavant, nous avons le composant de base pour implémenter facilement nos fonctionnalitées
 
 - Nathan
-  - recherche deploiement (temporaire) de l'application 
+  - recherche deploiement (temporaire) de l'application
+  - Déploiement front sur netlify, back sur heroku pour les branches develop 
+
+## 24,25,26 Mars
+- Nathan
+  - Dû a mon confinnement comme cas contact, j'ai travaillé pendant trois jour sur la mise en place des lieux sur le front/back
 
 ## Lundi 29 Mars
 - Baptiste
     - J'ai travaillé sur le front : surtout sur la mise au propre du brouillon de la page sur le renseignement sur les maladies.
     - Avec en meme temps, monté en competence toujours sur quasar, qui, comme ce dernier gere tout ce qui est CSS, j'ai essayé de faire une UI pas trop moche
     - et continué la partie back associé qui n'est pas encore terminé. Et il y a quelques problemes de conception qui seront a corriger : nommage de certains champ en bdd
+- Nathan
+    - J'ai continuer à travailler sur la page des lieux en ajoutant un q-select pour les types de lieux et une barre de recherche pour l'adresse du lieu désiré. J'ai également mis en place un page de description détaillé pour chacun des lieux.
+
+## Mardi 30 Mars
+- en groupe
+    - Nous avons fait une review de la partie front des lieux, avec des modifications nécessaire pour celui,
+    - Nous avons fait une review et merge du back pour les lieux,
+    - Nous avons fait une review de la partie maladie du front,
+    - Discussion générale sur le projet (état d'avancement, fonctionnalité disponibles, ...)
 
 
+
+- Nathan 
+   - J'ai mis en place un github action pour le déploiement de notre architecture AWS lors d'un merge sur le main 
 
 ### home page
 [retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
