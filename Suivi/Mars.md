@@ -99,10 +99,39 @@
     - Nous avons fait une review de la partie maladie du front,
     - Discussion générale sur le projet (état d'avancement, fonctionnalité disponibles, ...)
 
-
-
 - Nathan 
    - J'ai mis en place un github action pour le déploiement de notre architecture AWS lors d'un merge sur le main 
+
+- Baptiste
+
+## Mercredi 31 Mars
+- Baptiste
+  - J'ai travaillé sur le back sur une route PUT, donc qui efface l'ancienne entrée de la bdd pour en créer une toute nouvelle
+  - sur le front, j'ai créé une page de description détaillé pour une maladie. j'ai eu quelques probleme juste pour créer corectement le composant ... (-_-') (juste un probleme simple mais qui fait perdre du temps)
+  - et aussi, amélioration de tout ce qui est orgnaisation de la "grid" quasar, avec les columns et les rows
+
+## Jeudi 1er Avril :fish:
+- Baptiste
+  - J'ai travaillé sur la route PATCH cette fois ci, un premier brouillon qui utilisait la meme fonction que PUT
+  - puis refactorisaion, car sqlalchemy detect et gere très facilement le changement simple de certains champs dans une table, donc : refactorisation pour une meilleurs route PATCH (mais qui ne gere que le changement du nom et de description pour le moment)
+  - amélioration de l'existant du front avec la bonne organisation de la "grid" quasar
+  - travail de recherche pour avoir des sorte de variable global sur le front, et premier brouillon d'amélioration du main layout
+
+- en binome
+  - réunion de mise au point de tout ce qu'il y a maintnenant
+
+## vendredi 2 Avril
+- Baptiste 
+  - modifier encore le style pour mieux organiser les elements, maintenant que j'ai bien la logique de quasar (qui est certe comme d'autre framework qui font que du CSS, mais comme j'ai commencé a mettre les éléments sans tenir comptes de la "grid")
+  - netoyer le front et le back pour la partie maladie, pour faire un premier merge aujourd'hui
+
+- en binome
+  - merge des branch front et back :
+    - place
+    - login
+    - disease
+  - Pour récupéré chacun le travail de l'autre et progresser dans le développement générale de l'application
+
 
 ### home page
 [retour à l'accueil](https://github.com/AMP-Organisation/AssitantMedicalPersonnel/blob/main/Suivi.md)
