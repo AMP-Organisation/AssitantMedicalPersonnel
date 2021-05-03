@@ -36,3 +36,13 @@
   - netoyage du back pour merge (Medicament)
   - Démarrage d'une branche : mise a jour de certains element existant exemple : la barre de rechecrhe sur maladie ; création d'un composant pour les titre et icone de chaque page ; et pour d'autre changement 
 
+## Vendredi 30 Avril 
+
+- Baptiste
+  - merge de develop sur mes branches pour recupéré le travail de Nathan et pour ensuite le merge sur develop (donc netoyage et 'réparation' des conflits de 'fusion')
+
+- en groupe
+  - merge du back de HealthCard
+  - merge du front de HealthCard
+  - hotfix sur develop suite a des doublons qui causèrent des pproblèmes de merge
+
