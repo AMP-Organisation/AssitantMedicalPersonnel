@@ -41,7 +41,11 @@
   - Finalisation d'un premiere version de la page Médicament (Medicine) avec "polissage" de l'interface et choix finaux (d'une premiere version)
   - netoyage du front medicament pour le merge 
   - netoyage du back pour merge (Medicament)
-  - Démarrage d'une branche : mise a jour de certains element existant exemple : la barre de rechecrhe sur maladie ; création d'un composant pour les titre et icone de chaque page ; et pour d'autre changement 
+  - Démarrage d'une branche : mise a jour de certains element existant exemple : la barre de rechecrhe sur maladie ; création d'un composant pour les titre et icone de chaque page ; et pour d'autre changement
+
+- Nathan
+  - Finalisation de la page pillulier (possibilité de supprimer un médicament sur une liste de traitement), ajout d'un bouton pour la création d'un pillulier et l'ajout d'une liste de traitement à ce pillulier
+  - Finalisation de la page médicament (possibilité d'ajouter un médicament à une liste de traitement existant ou à un nouveau traitement)
 
 ## Mardi 27 Avril
   - Baptiste
@@ -56,6 +60,9 @@
 
 - Baptiste
   - merge de develop sur mes branches pour recupéré le travail de Nathan et pour ensuite le merge sur develop (donc netoyage et 'réparation' des conflits de 'fusion')
+
+- Nathan
+  -  merge de develop sur mes branches dû à un oubli de merge (branche HealthCard), réparation de la branche "treatment_pillbox" suite au merge
 
 - en groupe
   - merge du back de HealthCard
