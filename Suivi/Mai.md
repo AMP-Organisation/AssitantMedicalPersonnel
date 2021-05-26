@@ -32,6 +32,9 @@ DES MÉDICAMENTS](https://base-donnees-publique.medicaments.gouv.fr/telechargeme
 - Baptiste
   - travaillé sur la partie follow up
 
+- Nathan
+  - travaillé sur la mise en place d'une traduction du site web en englais 
+
 ## Mardi 18 Mai
 - Baptiste
   - Urgent -> refacto de la page Medicine : Découverte d'un bug, certaines données n'était pas les bonnes en fonctione des élément de la listes. Il doit y avoir un chargement spécial pour ce composant liste car il ne semblait pas tout charger. Donc j'ai enlever mon composant medicine Detail de la liste, je ne l'utilise plus que sur la page éponyme, et j'ai récréé un affichage d'un details du medicament sur l a liste sans sous composant
@@ -39,12 +42,17 @@ DES MÉDICAMENTS](https://base-donnees-publique.medicaments.gouv.fr/telechargeme
 - Binome
   - merge de certaines branche Notification -> develop
 
+- Nathan
+  - Utilisation après recherche de i18n (Internationalization and localization) pour commencer la traducation du site web, découverte d'un bug dans la page Medicine.
+
 ## lundi 24
   Pentecote
 
 ## Mardi 25 Mai
   - Baptiste
-    - Travaillé sur le front pour le suivi : je suis en train d'implementer mon composant "facade" qui fait l'intermediaire entre le LineChart et le composant FollowUp 
+    - Travaillé sur le front pour le suivi : je suis en train d'implementer mon composant "facade" qui fait l'intermediaire entre le LineChart et le composant FollowUp
+  - Nathan
+    - Traduction de chaque page en anglais sur le site. 
 
 ## Mercredi 26 Mai
   - Baptiste
@@ -52,3 +60,6 @@ DES MÉDICAMENTS](https://base-donnees-publique.medicaments.gouv.fr/telechargeme
 
   - Binome 
     - Merge de traduction -> develop
+
+  - Nathan
+    - Finalisation de la traduction de chaque page du site. 
