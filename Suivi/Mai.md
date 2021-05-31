@@ -63,3 +63,9 @@ DES MÉDICAMENTS](https://base-donnees-publique.medicaments.gouv.fr/telechargeme
 
   - Nathan
     - Finalisation de la traduction de chaque page du site. 
+
+## Lundi 31 Mai
+  - Baptiste
+    - Créé un page spécifique pour manipuler et tester ma "facade" pour l'utilisation de vue chart js
+    - Continué et réussi a faire un axe d'abscisse variable en fonction des : semaine, mois, semestre, année et un nombre de jour variable
+    - réussi a afficher deux axe d'ordonnées avec des legende différentes
