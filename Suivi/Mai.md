@@ -69,3 +69,7 @@ DES MÉDICAMENTS](https://base-donnees-publique.medicaments.gouv.fr/telechargeme
     - Créé un page spécifique pour manipuler et tester ma "facade" pour l'utilisation de vue chart js
     - Continué et réussi a faire un axe d'abscisse variable en fonction des : semaine, mois, semestre, année et un nombre de jour variable
     - réussi a afficher deux axe d'ordonnées avec des legende différentes
+
+  - Nathan
+    - Mise en place d'une version docker du front
+    - Début de la mise en place d'une version docker du back 
