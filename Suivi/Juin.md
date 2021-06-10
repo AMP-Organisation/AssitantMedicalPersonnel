@@ -3,7 +3,7 @@
 ## Lundi 7 Juin
 - Binome
   - bilan du master 2 avec nos responsable de l'université
-  
+
 ## Mardi 8 Juin
 - binome 
   -  preparation de la présentation
@@ -30,3 +30,17 @@
   - page profil :
     - front : ajout de la taille de l'utilisateur. 
     - back : ajout de la taille de l'utilisateur. 
+
+## Jeudi 10 Juin
+- Baptiste
+  - front-fix : un probleme d'affichage de valeur sur la page imc
+  - front : i18n sur le suivi de l'imc
+  - netoyage pour merge
+  - hotfix : isComprimé
+  - hotfix: suivi imc quand il n'y a pas de last data
+  - hotfix : lié la donnée si il est admin au booleen prevu a cette effet sur la page de maladie (pour ajouter des maladie et les modifier)
+
+- en binome
+  - merges
+  - preparation pour la soutenance
+  - découverte de bug
