@@ -12,7 +12,10 @@
 - Baptiste
   - back : changement de la BDD : ajout d'un champ pour le jour, le mois et l'année -> pour requeter plus facilement chaque jour et obtenir les moyennes
 
-## MErcredi 9 Juin
+- Nathan
+  - Fin de la version docker de AMP-Back 
+
+## Mercredi 9 Juin
 - Baptiste
   - page follow up de l'IMC
     - back : création de nouvelle route spour le back pour avoir les données sur une periode en moyenne et pour juste obtenir la derniere donnée récente (en fonction de la date)
@@ -20,3 +23,10 @@
     - front : travaille sur les vraie données pour le mois et le semestre (pas encore nickel)
     - back : travaillé sur les routes pour les période de données : maintenant je recupere bien les moyenne pour chauqe jour, par exemple si je veux les données sur une semaine avec une données par jour, j'ai bien la moyenne pour chaque jour et donc aucun doublon de jour
     - back : travaillé pour avoir la moyenne de chaque mois et donc une donnée par mois
+
+- Nathan
+  - page accueil :
+    - modification de l'accueil (suppresion icone + package non utilisé)
+  - page profil :
+    - front : ajout de la taille de l'utilisateur. 
+    - back : ajout de la taille de l'utilisateur. 
